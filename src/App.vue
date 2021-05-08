@@ -66,7 +66,7 @@
           {
             title: 'European tourism in bar race format',
             image: 'images/d3-bar-race-chart.png',
-            href: 'https://protopopovaleksey.github.io/3-bar-race-chart'
+            href: 'https://protopopovaleksey.github.io/d3-bar-race-chart'
           },
           {
             title: 'Data story about US police shooting',
@@ -86,7 +86,7 @@
           {
             title: 'D3 line chart with custom styling',
             image: 'images/d3-line-chart.png',
-            href: 'https://protopopovaleksey.github.io/d3-line-chart'
+            href: 'https://protopopovaleksey.github.io/d3-linear-chart'
           },
           {
             title: 'Visualization of geological data',

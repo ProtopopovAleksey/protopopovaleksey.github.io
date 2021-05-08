@@ -65,32 +65,32 @@
         projects: [
           {
             title: 'European tourism in bar race format',
-            image: 'images/d3-bar-race-chart.png',
+            image: 'images/d3-bar-race-chart.PNG',
             href: 'https://protopopovaleksey.github.io/d3-bar-race-chart'
           },
           {
             title: 'Data story about US police shooting',
-            image: 'images/d3-story.png',
+            image: 'images/d3-story.PNG',
             href: 'https://protopopovaleksey.github.io/d3-data-story'
           },
           {
             title: 'D3 bubbles chart with text wrapping',
-            image: 'images/d3-bubbles-chart.png',
+            image: 'images/d3-bubbles-chart.PNG',
             href: 'https://protopopovaleksey.github.io/d3-bubbles-chart'
           },
           {
             title: 'D3 radial chart with custom styling',
-            image: 'images/d3-radial-chart.png',
+            image: 'images/d3-radial-chart.PNG',
             href: 'https://protopopovaleksey.github.io/d3-radial-chart'
           },
           {
             title: 'D3 line chart with custom styling',
-            image: 'images/d3-line-chart.png',
+            image: 'images/d3-line-chart.PNG',
             href: 'https://protopopovaleksey.github.io/d3-linear-chart'
           },
           {
             title: 'Visualization of geological data',
-            image: 'images/d3-core-visualization.png',
+            image: 'images/d3-core-visualization.PNG',
             href: 'https://protopopovaleksey.github.io/core-visualization/'
           },
         ]
